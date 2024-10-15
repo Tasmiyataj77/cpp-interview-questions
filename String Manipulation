@@ -19,7 +19,7 @@ char firstNonRepeatingCharacter(const string& s) {
 }
 
 int main() {
-    string str = "leetcode";
+    string str = "tasmiya";
     cout << "First non-repeating character: " << firstNonRepeatingCharacter(str) << endl;
     return 0;
 }
